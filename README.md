@@ -4,3 +4,4 @@ main.c:人工智能题目+蒙题方法
 main_rand.c:人工智能题目+随机选
 main_drive.c:科目一题目+蒙题方法
 main_drive_rand.c:科目一题目+随机选
+尝试着修改一下
